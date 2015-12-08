@@ -1,9 +1,43 @@
-.snuaaa p{
-	color: yellow;
-	position: relative;
-	font-size: 50px;
+div{
+	border-radius: 5px;
 }
 
-.login_form{
+
+.snuaaa{
+	background-color: #777777;
+}
+.snuaaa p{
+	margin-top:0px;
+	padding-bottom: 20px;
+	color: #FFFF55;
+	position: relative;
+	font-size: 4em;
+}
+
+.button{
+	margin-top: 30px;
+}
+
+.button div{
+	border: 2px solid #000000;
+	float:none;
+	display: inline-block;
+	left: 50px;
+	bottom: 50px;
+	background-color: #ccc323;
+	height: 30px;
+	width: 100px;
+}
+
+.button div p{
+	margin: auto;
+	text-align: center;
+}
+
+}
+
+.loginform{
+	border: 1px solid #555555;
+	margin: center;
 	position: relative;
 }
