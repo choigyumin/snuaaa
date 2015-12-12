@@ -1,17 +1,18 @@
-div{
-	border-radius: 5px;
-}
-
-
-.snuaaa{
+*{
 	background-color: #777777;
 }
-.snuaaa p{
-	margin-top:0px;
-	padding-bottom: 20px;
+
+.snuaaa{
+	border-radius: 5px;
+	text-align: center;
+}
+.snuaaa h1{
 	color: #FFFF55;
-	position: relative;
 	font-size: 4em;
+}
+.snuaaa h5{
+	padding-top: -5px;
+	padding-bottom: 5px;
 }
 
 .button{
@@ -20,24 +21,23 @@ div{
 
 .button div{
 	border: 2px solid #000000;
-	float:none;
 	display: inline-block;
 	left: 50px;
 	bottom: 50px;
-	background-color: #ccc323;
+	background-color: #dd5555;
 	height: 30px;
 	width: 100px;
 }
 
 .button div p{
-	margin: auto;
+	margin:auto;
 	text-align: center;
 }
 
 }
 
-.loginform{
-	border: 1px solid #555555;
-	margin: center;
+.loginform {
+	border: 2px solid #555555;
 	position: relative;
+	backgrond-color:#555555;
 }
